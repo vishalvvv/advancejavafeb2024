@@ -1,0 +1,9 @@
+127.0.0.1 - - [01/May/2024:17:02:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/May/2024:17:02:06 +0530] "GET /springmvcdemo/ HTTP/1.1" 200 115
+0:0:0:0:0:0:0:1 - - [01/May/2024:17:02:06 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/May/2024:17:02:15 +0530] "GET /springmvcdemo/home HTTP/1.1" 200 159
+0:0:0:0:0:0:0:1 - - [01/May/2024:17:02:18 +0530] "GET /springmvcdemo/home HTTP/1.1" 200 159
+0:0:0:0:0:0:0:1 - - [01/May/2024:17:02:21 +0530] "GET /springmvcdemo/login HTTP/1.1" 200 479
+0:0:0:0:0:0:0:1 - - [01/May/2024:17:11:31 +0530] "GET /springmvcdemo/login HTTP/1.1" 200 479
+0:0:0:0:0:0:0:1 - - [01/May/2024:17:11:44 +0530] "POST /springmvcdemo/authenticate HTTP/1.1" 200 527
+0:0:0:0:0:0:0:1 - - [01/May/2024:17:12:11 +0530] "POST /springmvcdemo/authenticate HTTP/1.1" 200 195

@@ -1,0 +1,2 @@
+1. create one servlet where you can display the list of registered users on the console. (or)
+2. create one servlet where you can display the list of registered users on the UI.

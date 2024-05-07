@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+
+<beans 
+  xmlns="http://www.springframework.org/schema/beans"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:p="http://www.springframework.org/schema/p" 
+   xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+
+<bean id="account" class="com.digitallync.springdi_demo.Account">
+
+<property name="accountId" value="HDFCAC123"></property>
+<property name="balance" value="90000"></property>
+<property name="customerId" value="CID8788"></property>
+</bean>
+
+<bean id="customer" class="com.digitallync.springdi_demo.Customer">
+<property name="name" value="Kiran"></property>
+<property name="adhaar" value="98988787"></property>
+<property name="mobile" value="909090909"></property>
+<property name="account" ref="account"></property>
+</bean>
+</beans>

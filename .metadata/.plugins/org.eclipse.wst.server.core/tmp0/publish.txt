@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri May 03 17:18:41 IST 2024
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Vishal\\.m2\\repository\\org\\springframework\\spring-web\\5.1.12.RELEASE\\spring-web-5.1.12.RELEASE.jar=WEB-INF/lib/spring-web-5.1.12.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Vishal\\.m2\\repository\\org\\springframework\\spring-web\\5.1.12.RELEASE\\spring-web-5.1.12.RELEASE.jar=WEB-INF/lib/spring-web-5.1.12.RELEASE.jar

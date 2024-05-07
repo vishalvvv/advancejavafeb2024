@@ -1,0 +1,5 @@
+package com.digitallync.hibernatemappings;
+
+public class Laptop {
+
+}
